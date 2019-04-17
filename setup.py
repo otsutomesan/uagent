@@ -1,7 +1,7 @@
 
 
 from setuptools import setup
-from yats import __author__, __version__
+from uagent import __version__
 
 setup(
   name='uagent',
