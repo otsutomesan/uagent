@@ -1,15 +1,15 @@
-# uagent-string
+# uagent
 
 ### install
 ```
-pip install -e git+https://github.com/otsutomesan/uagent-string.git#egg=uagent-string
+pip install -e git+https://github.com/otsutomesan/uagent.git#egg=uagent
 ```
 
 ### usage
 ```
-import uagent-string
+import uagent
 
-ua = uagent-string.get_ua_string()
+ua = uagent.get_ua_string()
 print(ua)
 ```
 
